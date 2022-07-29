@@ -1,0 +1,11 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "git": "^0.1.5",
+    "js": "^0.1.0",
+    "node": "^18.7.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
